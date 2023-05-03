@@ -1,1 +1,1 @@
-# ML/DS Tiral Repo
+# ML/DS Exercise Repo
